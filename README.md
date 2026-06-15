@@ -33,6 +33,8 @@ El laboratorio fue exitoso. La integración entre el core de automatización y e
 
 ---
 *Desarrollado con pasión y disciplina. Maracaibo, Venezuela.*
+
+
 🎥 Evidencia Audiovisual de Operaciones
 Puedes acceder a las grabaciones técnicas que documentan la ejecución y validación de los procesos en el laboratorio:
 
