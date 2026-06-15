@@ -31,13 +31,11 @@ Desplegar y centralizar la inteligencia operativa de **A.R.E.S.** dentro del eco
 ### 5. Conclusión
 El laboratorio fue exitoso. La integración entre el core de automatización y el sistema de gestión de conocimiento permite una respuesta táctica más rápida frente a las simulaciones de ataques del Umbrella SOC.
 
----
-*Desarrollado con pasión y disciplina. Maracaibo, Venezuela.*
-
-
-🎥 Evidencia Audiovisual de Operaciones
+### 🎥 Evidencia Audiovisual de Operaciones
 Puedes acceder a las grabaciones técnicas que documentan la ejecución y validación de los procesos en el laboratorio:
 
-Presentación del Core A.R.E.S.
+* **[Presentación del Core A.R.E.S.](assets/2026-06-15%2000-01-06.mp4)**
+* **[Visualización de Red Neuronal](assets/2026-06-15%2000-01-54.mp4)**
 
-Visualización de Red Neuronal
+---
+*Desarrollado con pasión y disciplina. Maracaibo, Venezuela.*
