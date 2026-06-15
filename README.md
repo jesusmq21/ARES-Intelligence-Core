@@ -12,11 +12,11 @@ Desplegar y centralizar la inteligencia operativa de **A.R.E.S.** dentro del eco
 ### 2. Pasos de Ejecución
 * **Paso 1: Mapeo de Red Neuronal (Obsidian)**
   Se organizaron los nodos en la vista gráfica para representar visualmente la arquitectura de inteligencia.
-  ![Grafo Neuronal](assets/Captura%20de%20pantalla%20(237).png)
+  ![Grafo Neuronal](assets/Captura%20de%20pantalla%20(236).png)
 
 * **Paso 2: Ejecución del Core (Python/VS Code)**
   Se ejecutó el script `ares_core.py` para inicializar el sistema de evaluación automática y monitoreo.
-  ![Ejecución del Core A.R.E.S.](assets/Captura%20de%20pantalla%20(236).png)
+  ![Ejecución del Core A.R.E.S.](assets/Captura%20de%20pantalla%20(237).png)
 
 ### 3. Resultados Obtenidos
 * Sistema A.R.E.S. operativo con latencia mínima en la ejecución de comandos.
